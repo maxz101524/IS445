@@ -204,7 +204,6 @@ teams often excel at both.
 
 st.write("---")
 st.markdown("## Dataset Sources")
-st.markdown("""
-1. 2023-2024 NBA Player Stats - Regular (Main Dataset): https://github.com/maxz101524/IS445/blob/main/2023-2024%20NBA%20Player%20Stats%20-%20Regular%20Comma%20Sep.csv
-            2. NBA Stats 2023-24 Actual Team Metrics: 
-""")
+st.markdown("""1. 2023-2024 NBA Player Stats - Regular (Main Dataset): https://github.com/maxz101524/IS445/blob/main/2023-2024%20NBA%20Player%20Stats%20-%20Regular%20Comma%20Sep.csv""")
+st.markdown("""2. NBA Stats 2023-24 Actual Team Metrics: https://github.com/maxz101524/IS445/blob/main/NBA%20Stats%20202324%20Team%20Metrics%20Away-Home-Last%205%20Splits-2.csv""")
+st.markdown("""3. NBA Stats 2023-24 Projected Team Metrics: https://github.com/maxz101524/IS445/blob/main/Teams_Estimated_Metrics_Season23_24.csv""")
